@@ -1,0 +1,6 @@
+export const SET_COLOR = 'SET_COLOR'
+export const CLEAR_CANVAS = 'CLEAR_CANVAS'
+export const SET_IMAGE_SRC = 'SET_IMAGE_SRC'
+export const SET_CANVAS_SIZE = 'SET_CANVAS_SIZE'
+export const SET_IS_MONING_MODE = 'SET_IS_MONING_MODE'
+export const SET_LINE_THICKNESS = 'SET_LINE_THICKNESS'
