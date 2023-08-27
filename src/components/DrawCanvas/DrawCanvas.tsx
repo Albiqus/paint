@@ -31,7 +31,7 @@ export const DrawCanvas = () => {
 
         context.fillStyle = lineColor
         context.beginPath()
-        context.arc(startPoint.x, startPoint.y, lineThickness, 0, 2 * Math.PI)
+        context.arc(startPoint.x, startPoint.y, lineThickness / 2, 0, 2 * Math.PI)
         context.fill()
     }
 

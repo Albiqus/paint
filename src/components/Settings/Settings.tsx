@@ -41,7 +41,7 @@ export const Settings = () => {
 
             <InputWrapper>
                 <P>толщина кисти &nbsp;&nbsp;&nbsp;{lineThickness}</P>
-                <Input onChange={onLineThicknessChange} value={lineThickness} type="range" min='0' max='100' id='slider' />
+                <Input onChange={onLineThicknessChange} value={lineThickness} type="range" min='1' max='100' id='slider' />
             </InputWrapper>
 
             <Tools>
