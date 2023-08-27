@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/paint/static/css/main.80ba81be.css",
+    "main.js": "/paint/static/js/main.4b4ed006.js",
+    "static/js/787.5cb40ab5.chunk.js": "/paint/static/js/787.5cb40ab5.chunk.js",
+    "static/media/FedraSansPro-Bold.ttf": "/paint/static/media/FedraSansPro-Bold.aeaa6923abb9a9176f6e.ttf",
+    "static/media/Arbor.ttf": "/paint/static/media/Arbor.e6cae41b296c762808ab.ttf",
+    "index.html": "/paint/index.html",
+    "main.80ba81be.css.map": "/paint/static/css/main.80ba81be.css.map",
+    "main.4b4ed006.js.map": "/paint/static/js/main.4b4ed006.js.map",
+    "787.5cb40ab5.chunk.js.map": "/paint/static/js/787.5cb40ab5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ba81be.css",
+    "static/js/main.4b4ed006.js"
+  ]
+}
